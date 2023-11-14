@@ -6,6 +6,7 @@ export enum SupportedChainId {
   RINKEBY = 4,
   GOERLI = 5,
   KOVAN = 42,
+  SEPOLIA = 11155111,
 
   ARBITRUM_ONE = 42161,
   ARBITRUM_RINKEBY = 421611,
@@ -13,6 +14,7 @@ export enum SupportedChainId {
 
   OPTIMISM = 10,
   OPTIMISM_GOERLI = 420,
+  OPTIMISM_SEPOLIA = 11155420,
 
   POLYGON = 137,
   POLYGON_MUMBAI = 80001,
